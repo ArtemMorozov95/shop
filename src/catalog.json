@@ -1,0 +1,191 @@
+{
+    "products": [
+        {
+            "url": "img/aos.png",
+            "name": "AOS средство для мытья посуды Crystal",
+            "size_type": "Weight",
+            "size": "90 г",
+            "barcode": "4604049097548",
+            "manufacturer": "Нэфис",
+            "brand": "AOS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis. Quis mattis vulputate feugiat massa vestibulum duis. ",
+            "price": "48,76 ₸"  
+        },
+        {
+            "url": "img/ariel.png",
+            "name": "ARIEL Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
+            "size_type": "Weight",
+            "size": "90 г",
+            "barcode": "4604049097548",
+            "manufacturer": "Нэфис",
+            "brand": "AOS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis. Quis mattis vulputate feugiat massa vestibulum duis. ",
+            "price": "48,76 ₸"
+        },
+        {
+            "url": "img/bimax.png",
+            "name": "BIMAX Порошок стиральный Автомат 100 пятен COMPACT",
+            "size_type": "Weight",
+            "size": "90 г",
+            "barcode": "4604049097548",
+            "manufacturer": "Нэфис",
+            "brand": "AOS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis. Quis mattis vulputate feugiat massa vestibulum duis. ",
+            "price": "48,76 ₸"
+        },
+        {
+            "url": "img/aos.png",
+            "name": "AOS средство для мытья посуды Crystal",
+            "size_type": "Weight",
+            "size": "90 г",
+            "barcode": "4604049097548",
+            "manufacturer": "Нэфис",
+            "brand": "AOS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis. Quis mattis vulputate feugiat massa vestibulum duis. ",
+            "price": "48,76 ₸"  
+        },
+        {
+            "url": "img/ariel.png",
+            "name": "ARIEL Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
+            "size_type": "Weight",
+            "size": "90 г",
+            "barcode": "4604049097548",
+            "manufacturer": "Нэфис",
+            "brand": "AOS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis. Quis mattis vulputate feugiat massa vestibulum duis. ",
+            "price": "48,76 ₸"
+        },
+        {
+            "url": "img/bimax.png",
+            "name": "BIMAX Порошок стиральный Автомат 100 пятен COMPACT",
+            "size_type": "Weight",
+            "size": "90 г",
+            "barcode": "4604049097548",
+            "manufacturer": "Нэфис",
+            "brand": "AOS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis. Quis mattis vulputate feugiat massa vestibulum duis. ",
+            "price": "48,76 ₸"
+        },
+        {
+            "url": "img/aos.png",
+            "name": "AOS средство для мытья посуды Crystal",
+            "size_type": "Weight",
+            "size": "90 г",
+            "barcode": "4604049097548",
+            "manufacturer": "Нэфис",
+            "brand": "AOS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis. Quis mattis vulputate feugiat massa vestibulum duis. ",
+            "price": "48,76 ₸"  
+        },
+        {
+            "url": "img/ariel.png",
+            "name": "ARIEL Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
+            "size_type": "Weight",
+            "size": "90 г",
+            "barcode": "4604049097548",
+            "manufacturer": "Нэфис",
+            "brand": "AOS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis. Quis mattis vulputate feugiat massa vestibulum duis. ",
+            "price": "48,76 ₸"
+        },
+        {
+            "url": "img/bimax.png",
+            "name": "BIMAX Порошок стиральный Автомат 100 пятен COMPACT",
+            "size_type": "Weight",
+            "size": "90 г",
+            "barcode": "4604049097548",
+            "manufacturer": "Нэфис",
+            "brand": "AOS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis. Quis mattis vulputate feugiat massa vestibulum duis. ",
+            "price": "48,76 ₸"
+        },
+        {
+            "url": "img/aos.png",
+            "name": "AOS средство для мытья посуды Crystal",
+            "size_type": "Weight",
+            "size": "90 г",
+            "barcode": "4604049097548",
+            "manufacturer": "Нэфис",
+            "brand": "AOS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis. Quis mattis vulputate feugiat massa vestibulum duis. ",
+            "price": "48,76 ₸"  
+        },
+        {
+            "url": "img/ariel.png",
+            "name": "ARIEL Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
+            "size_type": "Weight",
+            "size": "90 г",
+            "barcode": "4604049097548",
+            "manufacturer": "Нэфис",
+            "brand": "AOS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis. Quis mattis vulputate feugiat massa vestibulum duis. ",
+            "price": "48,76 ₸"
+        },
+        {
+            "url": "img/bimax.png",
+            "name": "BIMAX Порошок стиральный Автомат 100 пятен COMPACT",
+            "size_type": "Weight",
+            "size": "90 г",
+            "barcode": "4604049097548",
+            "manufacturer": "Нэфис",
+            "brand": "AOS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis. Quis mattis vulputate feugiat massa vestibulum duis. ",
+            "price": "48,76 ₸"
+        },
+        {
+            "url": "img/aos.png",
+            "name": "AOS средство для мытья посуды Crystal",
+            "size_type": "Weight",
+            "size": "90 г",
+            "barcode": "4604049097548",
+            "manufacturer": "Нэфис",
+            "brand": "AOS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis. Quis mattis vulputate feugiat massa vestibulum duis. ",
+            "price": "48,76 ₸"  
+        },
+        {
+            "url": "img/ariel.png",
+            "name": "ARIEL Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
+            "size_type": "Weight",
+            "size": "90 г",
+            "barcode": "4604049097548",
+            "manufacturer": "Нэфис",
+            "brand": "AOS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis. Quis mattis vulputate feugiat massa vestibulum duis. ",
+            "price": "48,76 ₸"
+        },
+        {
+            "url": "img/bimax.png",
+            "name": "BIMAX Порошок стиральный Автомат 100 пятен COMPACT",
+            "size_type": "Weight",
+            "size": "90 г",
+            "barcode": "4604049097548",
+            "manufacturer": "Нэфис",
+            "brand": "AOS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis. Quis mattis vulputate feugiat massa vestibulum duis. ",
+            "price": "48,76 ₸"
+        },
+        {
+            "url": "img/aos.png",
+            "name": "AOS средство для мытья посуды Crystal",
+            "size_type": "Weight",
+            "size": "90 г",
+            "barcode": "4604049097548",
+            "manufacturer": "Нэфис",
+            "brand": "AOS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis. Quis mattis vulputate feugiat massa vestibulum duis. ",
+            "price": "48,76 ₸"  
+        },
+        {
+            "url": "img/ariel.png",
+            "name": "ARIEL Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
+            "size_type": "Weight",
+            "size": "90 г",
+            "barcode": "4604049097548",
+            "manufacturer": "Нэфис",
+            "brand": "AOS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum ut justo, vestibulum sagittis iaculis iaculis. Quis mattis vulputate feugiat massa vestibulum duis. ",
+            "price": "48,76 ₸"
+        }
+    ]
+}
